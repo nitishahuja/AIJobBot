@@ -189,7 +189,3 @@ If the job application form has extra fields or specific formats, you can modify
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you need any further information added to the README or if something isn't working as expected! 🚀

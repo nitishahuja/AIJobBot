@@ -1,7 +1,3 @@
-Sure! Here's an extensive README file template that you can use for your project. It will guide users on how to set up and run the application.
-
----
-
 # Job Application Agent
 
 The **Job Application Agent** is an automated tool designed to help job seekers streamline their job application process by automatically scraping job listings from popular platforms like **Google Jobs** and **LinkedIn**, filling out application forms, uploading resumes, and submitting job applications.

@@ -1,0 +1,3 @@
+chrome_driver_path: "./chromedriver"
+job_board_url: "https://www.indeed.com"
+llm_api_key: "your_openai_api_key" # Replace with your OpenAI API key if needed
